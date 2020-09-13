@@ -23,3 +23,4 @@ FOREIGN KEY (userid) REFERENCES user(id)
 ) ENGINE = innodb;
 
 ![](weather/itp-01/database.png)
+<img width="415" alt="database" src="https://user-images.githubusercontent.com/70703392/93009200-b23e4880-f54b-11ea-87ed-27cbf6a678a9.png">
