@@ -22,4 +22,4 @@ PRIMARY KEY (id),
 FOREIGN KEY (userid) REFERENCES user(id)
 ) ENGINE = innodb;
 
-![](itp-01/database.png)
+![](weather/itp-01/database.png)
